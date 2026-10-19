@@ -1,4 +1,4 @@
-[dedicatoria_rom_ntica_lector_de_huellas.html](https://github.com/user-attachments/files/33648329/dedicatoria_rom_ntica_lector_de_huellas.html)[Uploading dedicatoria_rom_ntica_lector_de_huellas.h<!DOCTYPE html>
+<!DOCTYPE html>
 <html lang="es">
 <head>
     <meta charset="UTF-8">
@@ -461,5 +461,4 @@
         };
     </script>
 </body>
-</html>tml…]()
-# para-mi-chiquita
+</html>
